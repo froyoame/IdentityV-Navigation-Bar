@@ -1,0 +1,17 @@
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\bin\Debug\net8.0-windows\NavigationBar.deps.json
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\bin\Debug\net8.0-windows\NavigationBar.dll
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\bin\Debug\net8.0-windows\NavigationBar.pdb
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.csproj.AssemblyReference.cache
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar_MarkupCompile.cache
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar_MarkupCompile.lref
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\Themes\Generic.baml
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.g.resources
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.AssemblyInfoInputs.cache
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.AssemblyInfo.cs
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.csproj.CoreCompileInputs.cache
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.dll
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\refint\NavigationBar.dll
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\NavigationBar.pdb
+D:\GraduationProject\Game\navigationbar-main\navigationbar-main\src\NavigationBar\obj\Debug\net8.0-windows\ref\NavigationBar.dll

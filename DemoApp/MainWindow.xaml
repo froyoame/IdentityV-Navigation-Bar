@@ -1,0 +1,39 @@
+﻿<Window x:Class="DemoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:navigation="clr-namespace:NavigationBar;assembly=NavigationBar"
+        mc:Ignorable="d"
+        Background="#222222"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <navigation:MagicBar x:Name="bar">
+            <ListBoxItem Content="Journalist" Tag="/NavigationBar;component/pictures/Journalist.png"/>
+            <!--<ListBoxItem.Background>
+                    <ImageBrush ImageSource="/pictures/Journalist.png"/>
+                </ListBoxItem.Background>-->
+            <!--</ListBoxItem>-->
+            <ListBoxItem Content="Aeroplanist" Tag="/NavigationBar;component/pictures/Aeroplanist.png"/>
+            <!--<ListBoxItem.Background>
+                    <ImageBrush ImageSource="/pictures/Aeroplanist.png"/>
+                </ListBoxItem.Background-->>
+            <!--</ListBoxItem>-->
+            <ListBoxItem Content="Puppeteer" Tag="/NavigationBar;component/pictures/Puppeteer.png"/>
+            <!--<ListBoxItem.Background>
+                    <ImageBrush ImageSource="/pictures/Puppeteer.png"/>
+                </ListBoxItem.Background>-->
+            <!--</ListBoxItem>-->
+            <ListBoxItem Content="Cheerleader" Tag="/NavigationBar;component/pictures/Cheerleader.png"/>
+            <!--<ListBoxItem.Background>
+                    <ImageBrush ImageSource="/pictures/Cheerleader.png"/>
+                </ListBoxItem.Background>-->
+            <!--</ListBoxItem>-->
+            <ListBoxItem Content="FireInvestigator" Tag="/NavigationBar;component/pictures/FireInvestigator.png"/>
+            <!--<ListBoxItem.Background>
+                    <ImageBrush ImageSource="/pictures/FireInvestigator.png"/>
+                </ListBoxItem.Background>-->
+            <!--</ListBoxItem>-->
+        </navigation:MagicBar>
+    </Grid>
+</Window>
