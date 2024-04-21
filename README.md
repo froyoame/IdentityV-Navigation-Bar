@@ -1,4 +1,4 @@
-![image](https://github.com/froyoame/IdentityV-Navigation-Bar/assets/119313191/5efc6ff8-d616-48d7-9dfe-ed2956ed9ef4)# IdentityV-Navigation-Bar
+# IdentityV-Navigation-Bar
 "This is my first project on GitHub",my English is poor,所以下面中文简述。
 ## 第五人格主题导航栏（极简失败版）心路历程与问题点
 **这里首先 *感谢Vicky姐姐* 在B站发布的wpf教程** :heart_eyes_cat: ：(https://www.bilibili.com/video/BV1Ui4y1a717/?spm_id_from=333.999.0.0&vd_source=0672cf281eaefd42dd21ef6c6e0c33d4)
