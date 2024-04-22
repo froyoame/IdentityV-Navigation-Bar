@@ -5,8 +5,8 @@
 ### 姐姐的账号
 B站@小李趣味多：(https://space.bilibili.com/688707261)
 
-GitHub：(https://github.com/jamesnet214)（姐夫）  
-(https://github.com/vickyqu115/navigationbar)（姐姐）
+GitHub：(https://github.com/jamesnet214)
+(https://github.com/vickyqu115/navigationbar)
 
 正好我的毕设要用到wpf，我又幸运地看到姐姐发布的视频（不过我现在还是小白）。Vicky姐姐的讲解深入浅出，评论区的疑问也都非常详尽耐心地解答，她一下子就成为了我心中的榜样。
 ### 	:smiling_face_with_three_hearts: 
